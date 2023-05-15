@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/io/hw-16-customHooks/static/css/main.0825cff5.css",
+    "main.js": "/io/hw-16-customHooks/static/js/main.222da712.js",
+    "index.html": "/io/hw-16-customHooks/index.html",
+    "main.0825cff5.css.map": "/io/hw-16-customHooks/static/css/main.0825cff5.css.map",
+    "main.222da712.js.map": "/io/hw-16-customHooks/static/js/main.222da712.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0825cff5.css",
+    "static/js/main.222da712.js"
+  ]
+}
